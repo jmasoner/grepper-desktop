@@ -1,0 +1,5 @@
+{
+  "settings-panel": "admin-settings.php",
+  "user-schema": "schema-user.php",
+  "onboarding-flow": "onboarding.php"
+}

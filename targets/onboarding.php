@@ -1,0 +1,1 @@
+@insert:settings-panel
